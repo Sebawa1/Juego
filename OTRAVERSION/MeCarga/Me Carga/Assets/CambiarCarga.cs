@@ -6,6 +6,7 @@ using TMPro;
 public class CambiarCarga : MonoBehaviour
 {
     public Button cambiarCarga;
+    public SpriteRenderer sprite;
     public TMP_Text boton;
     public AttractionLogic electron;
     // Start is called before the first frame update

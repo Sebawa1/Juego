@@ -8,6 +8,7 @@ TagManager:
   - Positivo
   - Proyectil
   - globales
+  - fondo
   layers:
   - Default
   - TransparentFX
@@ -17,7 +18,7 @@ TagManager:
   - UI
   - Electrones
   - ElectronProta
-  - 
+  - Wallpaper
   - 
   - 
   - 
@@ -44,4 +45,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 895707923
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1666605791
     locked: 0
