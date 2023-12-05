@@ -15,8 +15,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Assets.unity
     guid: f826707999917e545914e0708d7c6ae2
   - enabled: 1
+    path: Assets/Scenes/SelectorNiveles.unity
+    guid: ad53f4244d370d740b9500a38db426a3
+  - enabled: 1
     path: Assets/Scenes/Gameplay.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Gameplay2.unity
+    guid: abd27705132a40946aaf1bf9f55f7907
   - enabled: 1
     path: Assets/Scenes/Resultados.unity
     guid: c3c299c247b1b3e48b9a2a8dd61ac015
